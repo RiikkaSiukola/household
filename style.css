@@ -1,0 +1,27 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+#container {
+    margin:100px auto 0 auto;
+    padding:10px;
+    max-width:700px;
+    text-align:center;
+}
+
+#result {
+    justify-content:center;
+    width:100%;
+    min-height:10px;
+    padding:50px;
+    background-color:lightgrey;
+    font-size:20px;
+}
+
+.button {
+    width:100px;
+    padding:10px;
+    margin-top:10px;
+}
